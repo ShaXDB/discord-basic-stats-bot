@@ -1,6 +1,6 @@
 # Hana Stats Bot
 
-Discord sunucuları için geliştirilmiş kapsamlı istatistik ve görev yönetim botu.
+Discord sunucuları için basit bir istatistik ve görev yönetim botu.
 
 ## Özellikler
 
